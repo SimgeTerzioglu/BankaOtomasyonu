@@ -3,4 +3,4 @@ Bu uygulama çalıştırıldığında ilk olarak açılan sayfada sisteme hesap 
 
 ![](https://github.com/SimgeTerzioglu/BankaOtomasyonu/blob/master/banka.png)
 
-Sisteme müşteri ekleme işlemi de gerekli olan bilgilerin girilmesiyle gerçekleştirilir. Müşteri sisteme bu şekilde kaydedilmiş olur. 
+Sisteme müşteri ekleme işlemi de yapılabilir. Gerekli olan bilgilerin girilmesiyle gerçekleştirilir. Müşteri sisteme bu şekilde kaydedilmiş olur. 
